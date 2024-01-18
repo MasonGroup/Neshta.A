@@ -1,4 +1,4 @@
-# Neshta.A
+# SVCHOST.COM
 Neshta - Belarusian virus that appeared in 2005. The number of viruses found in the kuvantul peloro "Neshta" is "ceva"/"something". This virus is a Win32 program written in Delphi
 ---
 ```sh
